@@ -20,6 +20,6 @@ This Shows that more Females survived than Males. An estimate of 231 Females sur
 ![image](https://github.com/Anirban3456/Titanic_Data-Analysis/assets/118114203/16d92c33-0f96-4b3c-b56c-9e1061eba623)
 This shows that Passenger who paid more than 10,000$ had much more chances of surviving than people who paid less than 10,000$
 
-### The category of People who had the best and worst possibility to survive\
+### The category of People who had the best and worst possibility to survive
 ![image](https://github.com/Anirban3456/Titanic_Data-Analysis/assets/118114203/ae1eef10-0edd-41ee-b735-dd2fc2f0a140)
 This shows that Women at Pclass(1) had the best chance of surviving. Men at Pclass(3) had the least chance of surviving while Women at Pclass(3) had a 50% chance of surviving.
